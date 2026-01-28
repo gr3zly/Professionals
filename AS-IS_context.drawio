@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="Страница-1" id="tNJ6CheOdYOB0LaLvBSH">
+    <mxGraphModel dx="2478" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Производство СИЗОД" vertex="1">
+          <mxGeometry height="160" width="320" x="120" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-2" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-40" y="80" as="sourcePoint" />
+            <mxPoint x="120" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Заказы от клиентов" vertex="1">
+          <mxGeometry height="40" width="160" x="-40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-4" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-40" y="119.43" as="sourcePoint" />
+            <mxPoint x="120" y="119.43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Сырье с входным контролем качества" vertex="1">
+          <mxGeometry height="40" width="160" x="-40" y="79.43" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-6" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-40" y="160" as="sourcePoint" />
+            <mxPoint x="120" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Данные заказа" vertex="1">
+          <mxGeometry height="40" width="160" x="-40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-8" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="440" y="80" as="sourcePoint" />
+            <mxPoint x="600" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Готовая продукция с маркировкой и упаковкой&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="150" x="450" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-10" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="440" y="119.43" as="sourcePoint" />
+            <mxPoint x="600" y="119.43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Заключения ОТК" vertex="1">
+          <mxGeometry height="40" width="150" x="450" y="79.43" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-12" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="440" y="160" as="sourcePoint" />
+            <mxPoint x="600" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Отгруженные изделия клиентам" vertex="1">
+          <mxGeometry height="40" width="150" x="450" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-14" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="200" y="-80" as="sourcePoint" />
+            <mxPoint x="200" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="ГОСТы и стандарты" vertex="1">
+          <mxGeometry height="40" width="80" x="110" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="Типы заказа и расчеты" vertex="1">
+          <mxGeometry height="40" width="80" x="195" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-17" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="280" y="-80" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="Входной контроль и проверки" vertex="1">
+          <mxGeometry height="40" width="70" x="280" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-19" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="360" y="-80" as="sourcePoint" />
+            <mxPoint x="360" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-20" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="200" y="320" as="sourcePoint" />
+            <mxPoint x="200" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="Подразделения завода&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="100" x="94" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="Персонал" vertex="1">
+          <mxGeometry height="40" width="70" x="200" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-23" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="279.31" y="320" as="sourcePoint" />
+            <mxPoint x="279.31" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="Инструменты" vertex="1">
+          <mxGeometry height="40" width="80" x="280" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-25" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="360" y="320" as="sourcePoint" />
+            <mxPoint x="360" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVh6K-dXpCi-c_aIrfx8-26" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h3 dir=&quot;auto&quot;&gt;Контекстная диаграмма AS-IS (A-0: Производство СИЗОД)&lt;/h3&gt;&lt;ul dir=&quot;auto&quot;&gt;&lt;li&gt;&lt;strong&gt;Input (Входы)&lt;/strong&gt;:&lt;ul dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;li&gt;Заказы от клиентов (электронная площадка или прямые, данные для оценки номенклатуры).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Сырье (резина, пластик, фильтрующие материалы) с входным контролем качества.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Данные заказа (типовой или новый, спецификации для технологических карт).&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;Control (Контроль)&lt;/strong&gt;:&lt;ul dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;li&gt;ГОСТы и стандарты (например, ГОСТ Р 12.4.194-99 для фильтров, ГОСТ Р 12.4.189-99 для масок).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Тип заказа и расчеты (в Excel/Word, оценка ресурсов).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Входной контроль и проверки (ручная проверка на соответствие, бумажные журналы для ОТК).&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;Output (Выходы)&lt;/strong&gt;:&lt;ul dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;li&gt;Готовая продукция (респираторы, фильтры, маски) с маркировкой и упаковкой.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Заключения ОТК (бумажные отчеты о соответствии ГОСТам, передача в ИКБ).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Отгруженные изделия клиентам (с организацией доставки).&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;Mechanism (Механизмы)&lt;/strong&gt;:&lt;ul dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;li&gt;Подразделения завода (отдел продаж, ИКБ, технологическое бюро, цеха производства, ОТК, логистика).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Персонал (750 сотрудников: рабочие, технологи, мастера, операторы станков).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Инструменты (бумажные носители, флеш-носители для станков, ручные линии сборки с 11 сотрудниками).&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="625" width="560" x="-680" y="-192.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
