@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.2">
+  <diagram name="Страница-1" id="bEwJyViA0yZ4mnJJ__5l">
+    <mxGraphModel dx="2037" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;h4 dir=&quot;auto&quot;&gt;Сущности (Entities)&lt;/h4&gt;&lt;ul dir=&quot;auto&quot;&gt;&lt;li&gt;&lt;strong&gt;Актеры (Actors)&lt;/strong&gt;:&lt;ul dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;li&gt;Клиент (External Customer): Внешний пользователь, размещающий заказы и отслеживающий их.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Поставщик (Supplier): Внешний поставщик сырья, интегрированный через API.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Внутренний пользователь (Internal Employee): Сотрудник завода (подроли: Менеджер по продажам, Оператор производства, Администратор системы).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Внешняя система (External System): Логистическая платформа или API-партнер.&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;Варианты использования (Use Cases)&lt;/strong&gt;:&lt;ul dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;li&gt;Разместить заказ (Place Order).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Отслеживать статус заказа (Track Order Status).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Получить отчет о продукции (Generate Product Report).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Мониторить производство (Monitor Production).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Обработать возврат/жалобу (Handle Return/Complaint).&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h4 dir=&quot;auto&quot;&gt;Взаимосвязи (Relationships)&lt;/h4&gt;&lt;ul dir=&quot;auto&quot;&gt;&lt;li&gt;&lt;strong&gt;Ассоциации (Associations)&lt;/strong&gt;:&lt;ul dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;li&gt;Клиент → Разместить заказ: Клиент инициирует размещение заказа.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Клиент → Отслеживать статус заказа: Клиент мониторит прогресс.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Клиент → Получить отчет о продукции: Клиент запрашивает отчеты.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Клиент → Обработать возврат/жалобу: Клиент подает жалобы.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Поставщик → Разместить заказ: Поставщик интегрируется для заказов сырья (косвенно через систему).&lt;/li&gt;&lt;br&gt;&lt;li&gt;Внутренний пользователь → Мониторить производство: Сотрудник отслеживает процессы.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Внутренний пользователь → Получить отчет о продукции: Сотрудник генерирует внутренние отчеты.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Внешняя система → Отслеживать статус заказа: Интеграция для логистики и доставки.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Внешняя система → Обработать возврат/жалобу: Автоматизированная обработка через API.&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;Включающие отношения (Includes)&lt;/strong&gt;:&lt;ul dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;li&gt;Разместить заказ включает Отслеживать статус заказа: После размещения автоматически доступен мониторинг.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Обработать возврат/жалобу включает Получить отчет о продукции: Жалоба требует генерации отчета.&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;Расширяющие отношения (Extends)&lt;/strong&gt;:&lt;ul dir=&quot;auto&quot;&gt;&lt;br&gt;&lt;li&gt;Отслеживать статус заказа расширяет Мониторить производство: Внутренний мониторинг обновляет клиентский статус.&lt;/li&gt;&lt;br&gt;&lt;li&gt;Разместить заказ расширяет Обработать возврат/жалобу: Если заказ кастомный, возможны расширения для жалоб.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="1060" width="560" x="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-12" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="3Ol4sYrYMAiSOiMmB3IY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-13" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="3Ol4sYrYMAiSOiMmB3IY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-14" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="3Ol4sYrYMAiSOiMmB3IY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-15" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="3Ol4sYrYMAiSOiMmB3IY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Клиент" vertex="1">
+          <mxGeometry height="60" width="30" x="820" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-17" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="3Ol4sYrYMAiSOiMmB3IY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Поставщик" vertex="1">
+          <mxGeometry height="60" width="30" x="820" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-19" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="3Ol4sYrYMAiSOiMmB3IY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-20" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="3Ol4sYrYMAiSOiMmB3IY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Внутренний&lt;div&gt;пользователь&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="820" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Разместить заказ" vertex="1">
+          <mxGeometry height="70" width="140" x="1000" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Отслеживать статус заказа" vertex="1">
+          <mxGeometry height="70" width="140" x="1000" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Получить отчет о продукции" vertex="1">
+          <mxGeometry height="70" width="140" x="1000" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Мониторить производство" vertex="1">
+          <mxGeometry height="70" width="140" x="1000" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Обработать возврат / жалобу" vertex="1">
+          <mxGeometry height="70" width="140" x="1000" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-22" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" value="Клиент инициирует размещение заказа, а поставщик интегрируется для заказов сырья (косвенно через систему)" vertex="1">
+          <mxGeometry height="90" width="170" x="1240" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-23" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-22" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="3Ol4sYrYMAiSOiMmB3IY-5" value="">
+          <mxGeometry relative="1" x="1" as="geometry">
+            <mxPoint x="1170" y="120" as="sourcePoint" />
+            <mxPoint x="1140" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-25" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" value="Клиент мониторит прогресс, а внешняя система интегрируется для логистики и доставки" vertex="1">
+          <mxGeometry height="60" width="200" x="1240" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-26" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-25" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="3Ol4sYrYMAiSOiMmB3IY-6" value="">
+          <mxGeometry relative="1" x="1" as="geometry">
+            <mxPoint x="1170" y="265" as="sourcePoint" />
+            <mxPoint x="1140" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-28" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" value="Клиент запрашивает отчет, а сотрудник генерирует внутренние отчеты." vertex="1">
+          <mxGeometry height="80" width="200" x="1240" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-29" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-28" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" x="1" as="geometry">
+            <mxPoint x="1170" y="560" as="sourcePoint" />
+            <mxPoint x="1140" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-30" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" value="Клиент подает жалобы, а внешняя система автоматизировано обрабатывает через API" vertex="1">
+          <mxGeometry height="80" width="200" x="1240" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-31" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-30" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry relative="1" x="1" as="geometry">
+            <mxPoint x="1170" y="450" as="sourcePoint" />
+            <mxPoint x="1140" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-32" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" value="Сотрудник отслеживает процессы" vertex="1">
+          <mxGeometry height="50" width="200" x="1240" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-33" edge="1" parent="1" style="edgeStyle=none;endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="3Ol4sYrYMAiSOiMmB3IY-8" value="">
+          <mxGeometry relative="1" x="1" as="geometry">
+            <mxPoint x="1240" y="774.5" as="sourcePoint" />
+            <mxPoint x="1140" y="774.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-38" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="3Ol4sYrYMAiSOiMmB3IY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-39" edge="1" parent="1" source="3Ol4sYrYMAiSOiMmB3IY-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" target="3Ol4sYrYMAiSOiMmB3IY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ol4sYrYMAiSOiMmB3IY-37" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Внешняя&lt;div&gt;система&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="1310" y="390" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
