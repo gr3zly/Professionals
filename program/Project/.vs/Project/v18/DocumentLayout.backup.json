@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Professionals backup\\program\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|c:\\users\\user\\documents\\professionals backup\\program\\project\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals backup\\program\\Project\\project\\kanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\kanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals backup\\program\\Project\\project\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals backup\\program\\Project\\project\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals backup\\program\\Project\\project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals backup\\program\\Project\\project\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals backup\\program\\Project\\project\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals backup\\program\\Project\\project\\kanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\kanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|c:\\users\\user\\documents\\professionals backup\\program\\project\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Kanban.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals backup\\program\\Project\\Project\\Kanban.cs",
               "RelativeDocumentMoniker": "Project\\Kanban.cs",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Dashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals backup\\program\\Project\\Project\\Dashboard.cs",
               "RelativeDocumentMoniker": "Project\\Dashboard.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Account.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals backup\\program\\Project\\Project\\Account.cs",
               "RelativeDocumentMoniker": "Project\\Account.cs",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals backup\\program\\Project\\Project\\Login.cs",
               "RelativeDocumentMoniker": "Project\\Login.cs",
