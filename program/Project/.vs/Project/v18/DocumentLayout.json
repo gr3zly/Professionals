@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|c:\\users\\user\\documents\\professionals\\program\\project\\project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals\\program\\Project\\project\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|c:\\users\\user\\documents\\professionals\\program\\project\\project\\kanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\kanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals\\program\\Project\\project\\kanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\kanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals\\program\\Project\\project\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals\\program\\Project\\project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|c:\\users\\user\\documents\\professionals\\program\\project\\project\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|c:\\users\\user\\documents\\professionals\\program\\project\\project\\kanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\kanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|c:\\users\\user\\documents\\professionals\\program\\project\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|c:\\users\\user\\documents\\professionals\\program\\project\\project\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals\\program\\Project\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|c:\\users\\user\\documents\\professionals\\program\\project\\project\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals\\program\\Project\\project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|c:\\users\\user\\documents\\professionals\\program\\project\\project\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|c:\\users\\user\\documents\\professionals\\program\\project\\project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals\\program\\Project\\project\\kanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\kanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals\\program\\Project\\project\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|C:\\Users\\user\\Documents\\Professionals\\program\\Project\\project\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD743DF-460B-4859-9A3F-EBFE0503EEED}|Project\\Project.csproj|solutionrelative:project\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,16 +74,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Monitoring.cs",
+              "DocumentIndex": 1,
+              "Title": "Kanban.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Kanban.cs",
+              "RelativeDocumentMoniker": "Project\\Kanban.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Kanban.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project\\Kanban.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T20:23:17.713Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Account.cs",
+              "RelativeDocumentMoniker": "Project\\Account.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Account.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project\\Account.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T22:55:49.461Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Project\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Dashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project\\Dashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:24:49.247Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Login.cs",
+              "RelativeDocumentMoniker": "Project\\Login.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T22:37:26.167Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monitoring.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Monitoring.cs",
               "RelativeDocumentMoniker": "Project\\Monitoring.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Monitoring.cs",
-              "RelativeToolTip": "Project\\Monitoring.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Monitoring.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project\\Monitoring.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T20:23:31.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T20:23:08.191Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
@@ -100,20 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Kanban.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Kanban.cs",
-              "RelativeDocumentMoniker": "Project\\Kanban.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Kanban.cs",
-              "RelativeToolTip": "Project\\Kanban.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T20:23:25.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Dashboard.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Dashboard.cs",
               "RelativeDocumentMoniker": "Project\\Dashboard.cs",
@@ -126,12 +160,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Account.cs",
               "RelativeDocumentMoniker": "Project\\Account.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Account.cs*",
-              "RelativeToolTip": "Project\\Account.cs*",
+              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Account.cs",
+              "RelativeToolTip": "Project\\Account.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T20:23:21.74Z",
@@ -139,63 +173,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Kanban.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentIndex": 7,
+              "Title": "Kanban.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Kanban.cs",
               "RelativeDocumentMoniker": "Project\\Kanban.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Kanban.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Project\\Kanban.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Kanban.cs",
+              "RelativeToolTip": "Project\\Kanban.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T20:23:17.713Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Account.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Account.cs",
-              "RelativeDocumentMoniker": "Project\\Account.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Account.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "Project\\Account.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T22:55:49.461Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Dashboard.cs",
-              "RelativeDocumentMoniker": "Project\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Dashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Project\\Dashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T13:24:49.247Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-02-06T20:23:25.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Monitoring.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "Monitoring.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Monitoring.cs",
               "RelativeDocumentMoniker": "Project\\Monitoring.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Monitoring.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Project\\Monitoring.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Monitoring.cs",
+              "RelativeToolTip": "Project\\Monitoring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T20:23:08.191Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Login.cs",
-              "RelativeDocumentMoniker": "Project\\Login.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Professionals\\program\\Project\\Project\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Project\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T22:37:26.167Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-02-06T20:23:31.557Z",
+              "EditorCaption": ""
             }
           ]
         },
